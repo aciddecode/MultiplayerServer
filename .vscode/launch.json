@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MultiUserApplication<multiUser>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "de.djamous.multiuser.MultiUserApplication",
+            "projectName": "multiUser",
+            "args": ""
+        }
+    ]
+}
